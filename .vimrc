@@ -33,7 +33,7 @@ set showmatch
 " タブ系
 " Tab文字を半角スペースにする
 set expandtab
-" タブ表示幅
+" タブ表示幅(スペース4つ分)
 set tabstop=4
 set shiftwidth=4
 
